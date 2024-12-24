@@ -1,5 +1,4 @@
-Deliverables folder for Individual Project - KV6003
-Lily Lusvardi - W21010751
+Deliverables folder for Individual Project
 
 This folder contains the elogbook of supervisor meetings along with the practical work files. 
 
