@@ -1,9 +1,6 @@
-Deliverables folder for Individual Project
+Some of the deliverables for Individual Project
 
-This folder contains the elogbook of supervisor meetings along with the practical work files. 
-
-Files: 
-raw results of each model in one excel sheet
+Files in this repository: 
 reviews dataset used for training
 colab notebook containing all source code
 svm saved model 
