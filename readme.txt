@@ -3,7 +3,6 @@ Deliverables folder for Individual Project
 This folder contains the elogbook of supervisor meetings along with the practical work files. 
 
 Files: 
-elogbook
 raw results of each model in one excel sheet
 reviews dataset used for training
 colab notebook containing all source code
